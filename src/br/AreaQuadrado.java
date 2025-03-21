@@ -1,3 +1,5 @@
+package br;
+
 import java.util.Scanner;
 
 public class AreaQuadrado {
